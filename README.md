@@ -7,6 +7,6 @@
 Final work of the discipline of image processing taught by Professor Roger Resmini of UFMT-CUR, Rondonópolis - Brazil during the 8th semester of the Information Systems course.
 </p>
 
-<h2>Proposta do projeto</h2>
+<h2>Project proposal</h2>
 
 ![Alt Text](https://github.com/thalysonrodrigues/extract-sort/raw/master/index.png)
